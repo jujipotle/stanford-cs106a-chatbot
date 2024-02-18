@@ -14,8 +14,8 @@ export default function HomePage() {
         <ChatbotUISVG theme={theme === "dark" ? "dark" : "light"} scale={0.3} />
       </div> */}
 
-      <div className="mt-2 text-4xl font-bold">Stanford CS 106A Tree</div>
-      <div className="mt-2 mx-4 text-xl">I'm an assistant for CS 106A! Click below to get started. </div>
+      <div className="mt-2 text-4xl font-bold">Stanford CS 106B Tree</div>
+      <div className="mt-2 mx-4 text-xl">I'm an assistant for CS 106B! Click below to get started. </div>
 
       <Link
         className="mt-4 flex w-[200px] items-center justify-center rounded-md bg-blue-500 p-2 font-semibold"
